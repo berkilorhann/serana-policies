@@ -1,6 +1,8 @@
-title: Serana
-description: Legal policies for the Serana app
+title: Emai
+description: Legal policies for Emai — AI Companion
 theme: jekyll-theme-cayman
+url: "https://berkilorhann.github.io"
+baseurl: "/emai-policies"
 github:
   is_project_page: false
 show_downloads: false
