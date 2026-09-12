@@ -1,9 +1,9 @@
 ---
-title: Serana — Legal & Policies
+title: Emai — Legal & Policies
 permalink: /
 ---
 
-Serana is an AI companion app for Android by **CosmicLoopByte**.
+Emai is an AI companion app for iPhone by **CosmicLoopByte**.
 
 - [Privacy Policy](./privacy-policy/)
 - [Terms of Service](./terms-of-service/)
